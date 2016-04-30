@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/bokeio/weekly.png?label=ready&title=Ready)](https://waffle.io/bokeio/weekly)
 # 每周一起学习新技术
 
 本活动受 [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) 的启发。组织大家每周一起学习新技术。
